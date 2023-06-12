@@ -1,2 +1,2 @@
 # PORFOLIO PRESENTACION
-Este proyecto muestra mi informacion basica sobre mi
+Este proyecto muestra mi información basica sobre mí
